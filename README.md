@@ -1,16 +1,27 @@
-# Business Analyst Portfolio – Lawrence Choli
+# Lawrence Choli – Business Analyst Portfolio
 
-Welcome to my professional portfolio repository.
+Welcome to my professional portfolio.
 
-This repository contains selected projects demonstrating my skills in:
+I am an aspiring Business Analyst with experience in business case development, customer analytics, and digital customer engagement.
 
-- Business Requirements Documentation
-- Stakeholder Analysis
-- Process Mapping
-- Data Analysis
-- Business Case Development
-- Digital Customer Experience
+This repository showcases selected projects demonstrating my ability to:
 
-Each project includes documentation, analysis, and recommendations aligned with business objectives.
+- Analyse business problems
+- Develop structured documentation
+- Identify data-driven insights
+- Provide strategic recommendations
+- Align business needs with technical solutions
+
+---
+
+## Projects Included
+
+### 1. E-Commerce Customer Retention Analysis
+Analysis of customer behaviour to improve retention and lifetime value strategies.
+
+### 2. Manufacturing Sector – Total Workplace Solutions Business Case
+Business case exploring expansion into the manufacturing sector with strategic solution recommendations.
+
+---
 
 Thank you for reviewing my work.
